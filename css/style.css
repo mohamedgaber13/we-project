@@ -1,0 +1,32 @@
+.navbar{
+    box-shadow: 0 2px 8px rgb(67, 153, 159);
+
+}
+header{
+    min-height: 100vh;
+    background: url(../images/H1.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+.header-txt{
+    position: absolute;
+    top: 80%; left: 50%;
+    transform: translate(-50%,-50%);
+}
+.radiant-text {
+    color: hsla(193, 23%, 88%, 0.996); 
+    font-size: 50px; 
+    font-weight: bold; 
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5); /* Add a text shadow */
+  }
+.radian-text {
+    color: #00ff80b0; 
+    font-size: 30px; 
+    font-weight: bold; 
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5); /* Add a text shadow */
+  }
+  #About h5{
+   font-weight: bold;
+   font-size: 40px;
+  }
